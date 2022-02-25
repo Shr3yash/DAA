@@ -1,4 +1,4 @@
-# DAAoA
+# DaAoA
 
 Design and Analysis of Algorithms
 
